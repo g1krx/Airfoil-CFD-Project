@@ -22,7 +22,7 @@ A first CFD project: I designed a small tapered wing in SolidWorks and simulated
 |---|---|
 | Software | Ansys Fluent 2026 R1 (student), SolidWorks |
 | Geometry | Cambered airfoil, flat bottom, sharp trailing edge, tapered 3D wing |
-| Size (approx.) | Span about 0.5 m, chord about 0.07 to 0.09 m (check against your CAD) |
+| Size (approx.) | Span about 0.5 m, chord about 0.07 to 0.09 m  |
 | Air speed | 15 m/s |
 | Fluid | Air, density 1.225 kg/m³ |
 | Reynolds number (approx.) | about 80,000 (based on mid-span chord) |
