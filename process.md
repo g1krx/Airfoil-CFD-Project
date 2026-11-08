@@ -4,13 +4,13 @@
 
 ## Step 1: Sketching the airfoil
 
-I started by sketching the airfoil in SolidWorks and settled on a cambered shape with a rounded nose, a flat bottom and a sharp trailing edge. I chose this shape because I based it off of my memory consisting of many airfoils.(E.G Gottingen 398 1919) [FILL IN: why this shape? Did you copy a real airfoil or design it by eye?]
+I started by sketching the airfoil in SolidWorks and settled on a cambered shape with a rounded nose, a flat bottom and a sharp trailing edge. I chose this shape because I based it off of my memory consisting of many airfoils.(E.G Gottingen 398 1919) 
 
 ![SolidWorks airfoil sketch](03_Results/01_airfoil_sketch.png)
 
 ## Step 2: Turning it into a 3D wing
 
-I extruded the sketch into a tapered wing, narrower at one end than the other, with a slightly slanted leading edge. I did this by first projecting another plane 500mm Infront of the first one. I then started sketching a smaller version of the airfoil and set it down, having the midway point be the end of the original sketch. After that, I lofted the two sketches together, creating the wing.  [FILL IN: span, chord at each end, how you made the taper.]
+I extruded the sketch into a tapered wing, narrower at one end than the other, with a slightly slanted leading edge. I did this by first projecting another plane 500mm Infront of the first one. I then started sketching a smaller version of the airfoil and set it down, having the midway point be the end of the original sketch. After that, I lofted the two sketches together, creating the wing.  
 
 ![3D wing model](03_Results/02_wing_3d.png)
 
@@ -49,7 +49,7 @@ I took a slice at mid-span, worked out each point's position along the chord (x/
 
 ## Step 8: The 5° case, and what it taught me
 
-To get 5°, I tilted the inlet velocity instead of rotating the wing. The result was only slightly different from 0°. My explanation is that the walls of the enclosed box straightened the flow before it reached the wing. I checked this with the path lines near the outlet[FILL IN: did you check this with pathlines near the outlet?]
+To get 5°, I tilted the inlet velocity instead of rotating the wing. The result was only slightly different from 0°. My explanation is that the walls of the enclosed box straightened the flow before it reached the wing. I checked this with the path lines near the outlet
 
 Lesson: in a closed tunnel, rotate the model. Tilting the inlet only works in a big, open domain.
 
