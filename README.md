@@ -29,8 +29,7 @@ A first CFD project: I designed a small tapered wing in SolidWorks and simulated
 | Solver | 3D, double precision, pressure-based, steady |
 | Turbulence model | SST k-ω |
 | Cases | 0° (inlet straight on) and "5°" (inlet tilted 5°) |
-| Mesh | [FILL IN: number of cells, anything special you did] |
-| Domain | Enclosed wind-tunnel-style box ([FILL IN: dimensions]) |
+| Domain | Enclosed wind-tunnel-style box  |
 
 
 
@@ -43,7 +42,8 @@ A first CFD project: I designed a small tapered wing in SolidWorks and simulated
 process.md            Step-by-step story of how I built this
 ```
 
-The full Ansys Workbench project is too large for the repo. [FILL IN: link to Release or Google Drive.]
+The full Ansys Workbench project is too large for the repo. Insted, use the google drive link I provided: 
+        https://drive.google.com/drive/folders/1mvHqMQ79K9N2utBs7T0M2jjCjPikkqO6?usp=sharing
 
 ## Limitations 
 
