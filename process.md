@@ -64,3 +64,13 @@ Full video: [pathlines_web.mp4](03_Results/pathlines_web.mp4)
 1. Defiantly rotate the wing for the 5° case, or at least in this specific example.
 2. Use a mesh independence check.
 3. Compare with published data.
+
+## Final thoughts
+
+In my opinion, I definitely had fun working on this project. It allowed me to experience just a fraction of the engineering process, especially considering this was my first project. Although the results I obtained were not perfect, being able to experiment with CFD, CAD, and creating a GitHub repository was genuinely enjoyable.
+
+If I were to repeat this project, I would definitely rotate the wing rather than the inlet. The reason is that the results were only slightly different from the 0° case, something that might have been avoided with a better approach to setting up the simulation.
+
+Another thing I would like to explore is comparing my results with published aerodynamic data. I would love to see how well my results hold up against existing research and use that comparison to identify areas for improvement.
+
+Overall, I consider this a successful first project. To whoever is reading this, thank you!
